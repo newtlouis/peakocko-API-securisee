@@ -1,6 +1,8 @@
 
 # So Peakocko -  API sécurisée
 Création d'une API sécurisée pour l'application "Piquante" par So Pekocko
+Suite du repo : API-securisee-pour-une-application-avis-gastronomiques
+
 ## Technologies utilisées :
 
 Express
