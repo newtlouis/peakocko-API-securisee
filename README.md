@@ -1,6 +1,6 @@
 
 # So Peakocko -  API sécurisée
-Création d'une API sécurisée pour l'application "Piquante" par So Pekocko
+Création d'une API RESTFUL sécurisée pour l'application "Piquante" par So Pekocko
 
 Suite du repo : API-securisee-pour-une-application-avis-gastronomiques
 
